@@ -1,5 +1,7 @@
 # Hello World Three-Tier Application
 
+## Created by sam
+
 This repository contains a simple "Hello World" application built using a three-tier architecture. The application demonstrates the fundamental concepts of separating frontend, backend, and database components in a web application.
 
 ## Architecture Overview
